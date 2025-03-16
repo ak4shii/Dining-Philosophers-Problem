@@ -7,9 +7,9 @@ The Dining Philosophers Problem is a classic synchronization problem in computer
 
 ## Solutions
 
-###   1. Arbitrator  
-###   2. Resource Hierarchy
-###   3. Semaphore
-###   4. Tanenbaum
+   1. Arbitrator  
+   2. Resource Hierarchy
+   3. Semaphore
+   4. Tanenbaum
 
 ---
