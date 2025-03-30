@@ -17,7 +17,7 @@ The Dining Philosophers Problem is a classic synchronization problem in computer
 ## Solutions
 
    Nguyen Huu Hoang Hai Anh - 20226010  
-   Tuong Phi Tuan - 20226069 
+   Tuong Phi Tuan - 20226069  
    Tran Quang Hung - 20226045
 
 ---
