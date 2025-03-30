@@ -18,6 +18,7 @@ The Dining Philosophers Problem is a classic synchronization problem in computer
 
    Nguyen Huu Hoang Hai Anh - 20226010  
    Tuong Phi Tuan - 20226069
+   
    Tran Quang Hung - 20226045
 
 ---
